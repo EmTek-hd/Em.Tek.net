@@ -113,7 +113,7 @@ tumHarflerPasif();
 }
 if(adam.length<=hak)
 {
-window.alert("MAALESEF KAYBETTİNİZ BİRDAHAKİ SEFERE");
+window.alert("MAALESEF ADAM ASILDI KAYBETTİNİZ");
 tumHarfleriYaz(kelime);
 tumHarflerPasif();
  
